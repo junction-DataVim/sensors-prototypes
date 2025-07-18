@@ -1,0 +1,11 @@
+# Placeholder for Turbidity Sensor Circuit Diagram
+
+This is a placeholder for the Fritzing circuit diagram showing the connections between:
+- ESP32 development board
+- TSS-300B turbidity sensor
+- DS18B20 temperature sensor
+- Power management circuit
+- Status LED
+- Power enable control
+
+The actual Fritzing diagram (.fzz file) should be created separately and exported as PNG.

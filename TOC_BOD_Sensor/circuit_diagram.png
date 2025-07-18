@@ -1,0 +1,14 @@
+# Placeholder for TOC/BOD Sensor Circuit Diagram
+
+This is a placeholder for the Fritzing circuit diagram showing the connections between:
+- ESP32 development board
+- TOC sensor (UV-Persulfate or High-Temperature Combustion)
+- BOD sensor (Optical or Electrochemical)
+- DS18B20 temperature sensor
+- Sample valve control
+- Reagent pump control
+- Sample heater control
+- Status LED
+- Power management circuit
+
+The actual Fritzing diagram (.fzz file) should be created separately and exported as PNG.

@@ -1,0 +1,12 @@
+# Placeholder for Water Level and Flow Sensor Circuit Diagram
+
+This is a placeholder for the Fritzing circuit diagram showing the connections between:
+- ESP32 development board
+- HC-SR04 ultrasonic distance sensor
+- YF-S201 hall effect flow sensor
+- DS18B20 temperature sensor
+- Pump control relay
+- Status LED
+- Power management circuit
+
+The actual Fritzing diagram (.fzz file) should be created separately and exported as PNG.

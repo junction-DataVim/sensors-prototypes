@@ -1,0 +1,24 @@
+# Circuit Diagram Placeholder
+
+This file serves as a placeholder for the Fritzing circuit diagram for the Nitrite/Nitrate Sensor Module.
+
+## Circuit Components:
+- ESP32 microcontroller
+- Nitrite ion-selective electrode
+- Nitrate ion-selective electrode
+- Reference electrode (Ag/AgCl)
+- Temperature sensor (DS18B20)
+- Signal conditioning circuit
+- Power supply circuit
+- Status LED
+- Calibration button
+
+## Connections:
+- Pin 34: Nitrite sensor analog input
+- Pin 35: Nitrate sensor analog input
+- Pin 4: Temperature sensor (DS18B20)
+- Pin 2: Power control for sensors
+- Pin 5: Status LED
+- Pin 0: Calibration button
+
+The actual Fritzing diagram (circuit_diagram.fzz) should be created and exported as circuit_diagram.png

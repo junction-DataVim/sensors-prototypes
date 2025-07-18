@@ -1,0 +1,14 @@
+# Placeholder for Fish Feeding Monitor Circuit Diagram
+
+This is a placeholder for the Fritzing circuit diagram showing the connections between:
+- Raspberry Pi 4
+- Pi Camera V2.1
+- Infrared LED array (850nm)
+- Servo motor (MG996R)
+- PIR motion sensor
+- Power supply circuits
+- GPIO connections
+- Cooling fan
+- Status indicators
+
+The actual Fritzing diagram (.fzz file) should be created separately and exported as PNG.
